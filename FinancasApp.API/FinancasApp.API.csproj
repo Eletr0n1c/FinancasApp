@@ -19,4 +19,8 @@
     <ProjectReference Include="..\FinancasApp.Infra.Security\FinancasApp.Infra.Security.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Configurations\" />
+  </ItemGroup>
+
 </Project>
